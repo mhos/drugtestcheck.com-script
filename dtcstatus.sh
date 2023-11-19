@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ###############################################################################
+#
 # Creation Date:
 #       11/19/2023
 # Info: 
@@ -21,8 +22,9 @@
 #       I take absolutely no responsibility for the use of this script if it doesn't work.
 #       This is a use-at-your own risk situation. If this script fails and you do not get
 #       alerts, it is your own fault, Not Mine!
-# How to get Telegram alerts:
-#       
+# How to get Telegram alerts details:
+#       https://github.com/mhos/drugtestcheck.com-script/blob/main/TELEGRAM-INFO.md
+#
 ###############################################################################
 
 # Set the variables
