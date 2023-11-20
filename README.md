@@ -7,7 +7,7 @@
 
 ## Usage
 
-To use this script, you must have a working email server for the email functions. It can be ran from a cronjob of a cPanel hosting account.
+To use this script, you must have a working email server for the email functions. It can be ran from a cronjob of a cPanel hosting account but jail/shell access needs to be enabled.
 
 ### Example Cron
 
