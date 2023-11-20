@@ -11,7 +11,7 @@
 # Usage:
 #       To use this script you must have a working email server if you want
 #       to use the email functions of this script.
-#       I run it from a cronjob of a cPanel hosting account.
+#       I run it from a cronjob of a cPanel hosting account that has jail/shell access enabled.
 #       ** NOTE ** You need to update the parts containing "CHANGE-ME" with your details ** NOTE **
 # Example Cron:
 #       First, upload the script dtcstatus.sh to your cPanel account and make it executable.
